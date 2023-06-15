@@ -1,0 +1,12 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\bin\Debug\net6.0\modelo.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\bin\Debug\net6.0\modelo.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\bin\Debug\net6.0\modelo.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\modelo.csproj.AssemblyReference.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\modelo.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\modelo.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\modelo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\modelo.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\refint\modelo.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\modelo.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\modelo\obj\Debug\net6.0\ref\modelo.dll

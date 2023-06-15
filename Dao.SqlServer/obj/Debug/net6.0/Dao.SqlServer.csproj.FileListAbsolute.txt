@@ -1,0 +1,17 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\bin\Debug\net6.0\Dao.SqlServer.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\bin\Debug\net6.0\Dao.SqlServer.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\bin\Debug\net6.0\Dao.SqlServer.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\bin\Debug\net6.0\modelo.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\bin\Debug\net6.0\modelo.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.csproj.CopyComplete
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\refint\Dao.SqlServer.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\ref\Dao.SqlServer.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\bin\Debug\net6.0\Dao.SqlServer.runtimeconfig.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.SqlServer\obj\Debug\net6.0\Dao.SqlServer.genruntimeconfig.cache

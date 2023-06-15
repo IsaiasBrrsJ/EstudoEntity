@@ -1,0 +1,17 @@
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\bin\Debug\net6.0\Dao.MYSQL.deps.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\bin\Debug\net6.0\Dao.MYSQL.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\bin\Debug\net6.0\Dao.MYSQL.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\bin\Debug\net6.0\modelo.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\bin\Debug\net6.0\modelo.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.csproj.AssemblyReference.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.csproj.CopyComplete
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\refint\Dao.MYSQL.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.pdb
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\ref\Dao.MYSQL.dll
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\bin\Debug\net6.0\Dao.MYSQL.runtimeconfig.json
+C:\Users\Administrador\OneDrive - UFN - Universidade Franciscana\CursoC#\EEFEstudo\Dao.MYSQL\obj\Debug\net6.0\Dao.MYSQL.genruntimeconfig.cache

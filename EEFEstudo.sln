@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEFEstudo", "EEFEstudo\EEFEstudo.csproj", "{ED0FC070-7DEF-4044-859B-91B73BB89824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelo", "modelo\modelo.csproj", "{093EBDC4-B66C-4126-A30D-5BCEE3E855B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dao.MYSQL", "Dao.MYSQL\Dao.MYSQL.csproj", "{DC0DADC2-227E-43D4-A3F8-4D1FC86BDDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dao.SqlServer", "Dao.SqlServer\Dao.SqlServer.csproj", "{A3A34440-6141-48C6-BB23-37F74E7203F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camada1", "Camada1", "{6E2C097B-A999-4A8B-8975-1778CD57120C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "camada2", "camada2", "{122AEC29-B807-46CD-90A6-E61337D0E60E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "camada3", "camada3", "{C3DE723D-952F-4998-B989-3ACAEDD9FA9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0FC070-7DEF-4044-859B-91B73BB89824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0FC070-7DEF-4044-859B-91B73BB89824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0FC070-7DEF-4044-859B-91B73BB89824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0FC070-7DEF-4044-859B-91B73BB89824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093EBDC4-B66C-4126-A30D-5BCEE3E855B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093EBDC4-B66C-4126-A30D-5BCEE3E855B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093EBDC4-B66C-4126-A30D-5BCEE3E855B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093EBDC4-B66C-4126-A30D-5BCEE3E855B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0DADC2-227E-43D4-A3F8-4D1FC86BDDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0DADC2-227E-43D4-A3F8-4D1FC86BDDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0DADC2-227E-43D4-A3F8-4D1FC86BDDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0DADC2-227E-43D4-A3F8-4D1FC86BDDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A34440-6141-48C6-BB23-37F74E7203F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A34440-6141-48C6-BB23-37F74E7203F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A34440-6141-48C6-BB23-37F74E7203F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A34440-6141-48C6-BB23-37F74E7203F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ED0FC070-7DEF-4044-859B-91B73BB89824} = {6E2C097B-A999-4A8B-8975-1778CD57120C}
+		{093EBDC4-B66C-4126-A30D-5BCEE3E855B8} = {C3DE723D-952F-4998-B989-3ACAEDD9FA9E}
+		{DC0DADC2-227E-43D4-A3F8-4D1FC86BDDA2} = {122AEC29-B807-46CD-90A6-E61337D0E60E}
+		{A3A34440-6141-48C6-BB23-37F74E7203F9} = {122AEC29-B807-46CD-90A6-E61337D0E60E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA7A9BA-8E4E-4168-9221-7FDB3659AABD}
+	EndGlobalSection
+EndGlobal
