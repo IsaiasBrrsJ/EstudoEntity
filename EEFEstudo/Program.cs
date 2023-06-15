@@ -12,10 +12,9 @@ namespace EEFEstudo
           Dao.SqlServer.Class1 msql2 = new Dao.SqlServer.Class1();
          Produtos p = new Produtos();
             p.Id = 1;
-            p.Nome = "Teste";
-            p.Cor = "BlueHat";
 
-            Funcoes.Update(p);
+
+            Funcoes.Delete(p);
 
           using(SqlContext ctx = new SqlContext())
           {

@@ -10,6 +10,7 @@ namespace Dao.SqlServer
 {
     public static class Funcoes
     {
+       
         public static bool Update(Produtos P )
         {
             using (SqlContext ctx = new SqlContext())
@@ -23,6 +24,21 @@ namespace Dao.SqlServer
 
                     return true;
                     
+                }
+
+                return false;
+            }
+        }
+
+        public static bool Delete(Produtos P )
+        {
+            using(SqlContext ctx = new SqlContext())
+            {
+                if(P is not null)
+                {
+                    ctx.Entry(P).State = EntityState.Deleted;
+                    ctx.SaveChanges();
+                    return true;
                 }
 
                 return false;
